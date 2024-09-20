@@ -24,5 +24,8 @@ Welcome to the *Netflix Clone DApp*! 🌟 This decentralized application (DApp) 
 - **UI Development**: Many web 2 functionalities need correction, and UI work is not yet complete.
 
 ---
+## Check out our demo! 🎬👇
+
+[Watch the video](./Netflix.webm)
 
 
