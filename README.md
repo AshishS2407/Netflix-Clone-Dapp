@@ -28,7 +28,7 @@ Welcome to the *Netflix Clone DApp*! 🌟 This decentralized application (DApp) 
 
 [![Watch the video](https://img.youtube.com/vi/1Ns1RmGPXL0/maxresdefault.jpg)](https://www.youtube.com/watch?v=1Ns1RmGPXL0)
 
-https://youtu.be/1Ns1RmGPXL0
+
 
 
 ## 🚀 Quick Start
