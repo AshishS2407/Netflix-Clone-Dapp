@@ -107,13 +107,13 @@ Admin can upload videos using ipfs hashes according to categories and language. 
 ## 🎨 Screenshots
 
 ### 🏠 Sign In
-![Home Page](https://github.com/AshishS2407/certi-Dapp/blob/main/Sign.png)
+![Home Page](https://github.com/AshishS2407/Netflix-Clone-Dapp/blob/main/Sign.png)
 
 ### 📝 Profile Selection Page
-![Issue Certificate Page](https://github.com/AshishS2407/certi-Dapp/blob/main/Profile.png)
+![Issue Certificate Page](https://github.com/AshishS2407/Netflix-Clone-Dapp/blob/main/Profile.png)
 
 ### 📜 Main Page
-![Certificate Display](https://github.com/AshishS2407/certi-Dapp/blob/main/Main.png)
+![Certificate Display](https://github.com/AshishS2407/Netflix-Clone-Dapp/blob/main/Main.png)
 
 
 ---
